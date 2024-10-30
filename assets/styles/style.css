@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(203, 211, 218);
+}
+#Formulaire-1{
+    border: solid 2px #111111;
+    margin: 3rem 15rem;
+    padding: 15px;
+    border-radius: 5px;
+}
+form h3{
+    padding-bottom: 50px;
+}
+#Formulaire-2{
+    border: solid 2px #111111;
+    margin: 3rem 15rem;
+    padding: 15px;
+    border-radius: 5px;
+}
+#Formulaire-3{
+    border: solid 2px #111111;
+    margin: 3rem 15rem;
+    padding: 15px;
+    border-radius: 5px;
+}
+.btns3{
+    padding-top: 20px;
+}
